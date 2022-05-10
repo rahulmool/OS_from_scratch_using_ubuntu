@@ -51,3 +51,6 @@ Anyway, you know the drill:
 `qemu-system-x86_64 boot_sect_hello.bin`
 
 Your boot sector will say 'Hello' and hang on an infinite loop
+
+
+<img src="https://github.com/rahulmool/OS_from_scratch_using_ubuntu/blob/main/02-bootsector-print/Screenshot%20from%202022-04-27%2015-34-26.png?raw=true"></img>

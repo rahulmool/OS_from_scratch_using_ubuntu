@@ -13,3 +13,5 @@ This lesson is quite straightforward, so jump ahead to the code.
 
 I suggest that you try accessing in-stack memory addresses by yourself, 
 at different points in the code, and see what happens.
+
+<img src="https://github.com/rahulmool/OS_from_scratch_using_ubuntu/blob/main/04-bootsector-stack/Screenshot%20from%202022-04-27%2015-50-35.png?raw=true"></img>

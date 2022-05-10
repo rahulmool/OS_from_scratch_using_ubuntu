@@ -60,3 +60,5 @@ I know you're anxious to try it out (I am!), so let's do it:
 You will see a window open which says "Booting from Hard Disk..." and
 nothing else. When was the last time you were so excited to see an infinite
 loop? ;-)
+
+<img src="https://github.com/rahulmool/OS_from_scratch_using_ubuntu/blob/main/01-bootsector-barebones/Screenshot%20from%202022-04-27%2003-21-43.png?raw=true"></img>

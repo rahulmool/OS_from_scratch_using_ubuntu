@@ -133,3 +133,5 @@ As stated above, `boot_sect_print_hex.asm` allows for printing of bytes.
 The main file `boot_sect_main.asm` loads a couple strings and bytes,
 calls `print` and `print_hex` and hangs. If you understood
 the previous sections, it's quite straightforward.
+
+<img src="https://github.com/rahulmool/OS_from_scratch_using_ubuntu/blob/main/05-bootsector-functions-strings/Screenshot%20from%202022-04-27%2015-58-50.png?raw=true"></img>

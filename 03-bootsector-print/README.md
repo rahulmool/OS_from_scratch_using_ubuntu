@@ -61,3 +61,6 @@ Read the comments for a full explanation of the changes with and without `org`
 
 [1] This whole tutorial is heavily inspired on that document. Please read the
 root-level README for more information on that.
+
+
+<img src="https://github.com/rahulmool/OS_from_scratch_using_ubuntu/blob/main/03-bootsector-print/boot_sect_memory_org.png?raw=true"></img>

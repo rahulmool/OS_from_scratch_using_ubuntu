@@ -61,3 +61,4 @@ as `0x00`, it seems to work fine then.
 automatically sets `dl` as `0x80` and lets the bootloader read data
 
 
+<img src="https://github.com/rahulmool/OS_from_scratch_using_ubuntu/blob/main/07-bootsector-disk/Screenshot%20from%202022-04-27%2017-00-06.png?raw=true"></img>

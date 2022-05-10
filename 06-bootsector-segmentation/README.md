@@ -23,3 +23,5 @@ Enough theory. Have a look at the code and play with it a bit.
 
 Hint: We cannot `mov` literals to those registers, we have to
 use a general purpose register before.
+
+<img src="https://github.com/rahulmool/OS_from_scratch_using_ubuntu/blob/main/06-bootsector-segmentation/Screenshot%20from%202022-04-27%2016-53-56.png?raw=true"></img>

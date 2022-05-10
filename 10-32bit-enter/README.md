@@ -21,3 +21,7 @@ at `32bit-main.asm`. Compile and run this last file and you will see the two
 messages on the screen.
 
 Congratulations! Our next step will be to write a simple kernel
+
+
+
+<img src="https://github.com/rahulmool/OS_from_scratch_using_ubuntu/blob/main/10-32bit-enter/Screenshot%20from%202022-04-27%2017-50-34.png?raw=true"></img>
